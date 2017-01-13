@@ -1,5 +1,5 @@
 # Iris-Dataset
-This python script uses the following classifiers on the popular Iris dataset and is for learning purposes.
+This python script runs the following classifiers on the popular Iris dataset and is for learning purposes.
 - Logistic Regression (LR)
 - Support Vector Machine (SVM)
 - Linear Disciminant Analysis (LDA)
